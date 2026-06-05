@@ -5,8 +5,7 @@ Core operators for the CRM rate analysis.
 
 References to equations and theorems use the numbering of:
 Y. Bello-Cruz. On the sharp linear convergence rate of the
-circumcentered--reflection method on subspaces. Submitted to
-Numerical Algorithms, 2026.
+circumcentered--reflection method on subspaces. Submitted 2026.
 """
 module CRMCore
 

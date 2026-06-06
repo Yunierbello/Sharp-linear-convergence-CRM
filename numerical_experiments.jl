@@ -3,8 +3,7 @@
 Numerical experiments for Section 8 of:
 
     Y. Bello-Cruz. On the sharp linear convergence rate of the
-    circumcentered--reflection method on subspaces. Submitted to
-    Numerical Algorithms, 2026.
+    circumcentered--reflection method on subspaces. Submitted 2026.
 
 Julia translation of `numerical_experiments.py`. Section, theorem,
 table, and figure numbers below refer to that submitted version.

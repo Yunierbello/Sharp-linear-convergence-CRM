@@ -5,7 +5,7 @@ Julia companion code for
 
 > Y. Bello-Cruz. *On the sharp linear convergence rate of the
 > circumcentered-reflection method on subspaces.* 2026.
-> [arXiv:XXXX.XXXXX](https://arxiv.org/abs/2604.11450)
+> [arXiv:XXXX.XXXXX](https://arxiv.org/abs/2606.07888)
 
 For two subspaces *U, V* ⊆ ℝⁿ, the circumcentered-reflection method (CRM) of
 Behling, Bello-Cruz, and Santos computes the projection onto *U ∩ V* from the
@@ -85,7 +85,7 @@ julia --project=. numerical_experiments.jl
   title         = {On the sharp linear convergence rate of the
                    circumcentered-reflection method on subspaces},
   year          = {2026},
-  eprint        = {2604.11450},
+  eprint        = {2606.07888},
   archivePrefix = {arXiv},
   primaryClass  = {math.OC}
 }
